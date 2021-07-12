@@ -2,3 +2,4 @@ language: swift
 osx_image: xcode12.4
 xcode_project: Travis Test.xcodeproj
 xcode_scheme: “Travis Test”
+xcode_destination: platform=iOS Simulator,OS=14.4,name=iPhone 12
